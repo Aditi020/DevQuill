@@ -198,9 +198,9 @@ header.shadow .logo {
 }
 
 .home {
-  margin-top: -5%;
+  margin-top: -8%;
   width: 100%;
-  min-height: 440px;
+  min-height: 380px;
   background: #0f3f48;
   display: grid;
   justify-content: center;
@@ -219,6 +219,7 @@ header.shadow .logo {
 .hero .h1 {
   margin-bottom: 1rem;
   line-height: 1.6;
+  padding-bottom: 1rem;
 }
 
 .hero b {
